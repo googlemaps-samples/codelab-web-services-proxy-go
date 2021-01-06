@@ -1,9 +1,8 @@
+**NOTE:** This codelab is deprecated. See our current codelabs at https://codelabs.developers.google.com/?cat=maps-platform
 
 # Google Maps Web Services Proxy for Mobile Applications
 These are the resource files needed for the [Google Maps Web Services Proxy for Mobile Applications](https://codelabs.developers.google.com/codelabs/google-maps-web-services-proxy/)
 code lab from Google.
-
-This is a work in progress, if you find a mistake, please [file an issue](https://github.com/googlecodelabs/google-maps-web-services-proxy/issues). Thanks!
 
 ## Introduction for the [Google Maps Web Services Proxy for Mobile Applications](https://codelabs.developers.google.com/codelabs/google-maps-web-services-proxy/)
 
